@@ -15,6 +15,7 @@ body {
 
 .home-content {
   background-color: #ccc4b9;
+  margin: 12px;
   padding: 3rem 1rem;
   text-align: center;
   border: 2px solid #000;
