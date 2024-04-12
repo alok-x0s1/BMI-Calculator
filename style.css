@@ -9,7 +9,8 @@ body {
   background-color: #ccc5b9;
   color: #000;
   display: flex;
-  width: 100vw;
+  width: 100%;
+  min-height: 100vh;
   justify-content: center;
   align-items: center;
   padding: 21px 12px;
@@ -17,6 +18,7 @@ body {
 
 .home-content {
   background-color: #ccc4b9;
+  max-width: 480px;
   margin: 12px;
   padding: 3rem 1rem;
   text-align: center;
@@ -30,7 +32,7 @@ body {
 }
 
 .home-content input {
-  margin-top: 2rem;
+  margin-top: 1rem;
   margin-left: 0.5rem;
 }
 
