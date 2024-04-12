@@ -9,6 +9,7 @@ body {
   background-color: #ccc5b9;
   color: #000;
   display: flex;
+  width: 100vw;
   justify-content: center;
   align-items: center;
   padding: 21px 12px;
